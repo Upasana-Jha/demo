@@ -1,14 +1,14 @@
+[
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+   "name" : "Upasana",
+   "password" : "123",
+   "contact" : "882632333",
+   "country" : "India"
+},
+{
+   "name" : "Noni",
+   "password" : "123",
+   "contact" : "9999999",
+   "country" : "India"
 }
+]
